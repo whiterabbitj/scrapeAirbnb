@@ -1,0 +1,22 @@
+{
+  "classesDetails" : "._tqmy57 ol",
+  "classPropertyName" : "._fecoyn4",
+  "classPropertyType" : "._14i3z6h",
+  "classDetailList" : "._tqmy57 ol",
+  "classAmenities" : "._vzrbjl",
+  "outputFile" : "./output.json",
+  "airbnbUrl": "https://www.airbnb.co.uk/",
+
+  "urls": [
+    "https://www.airbnb.co.uk/rooms/33571268",
+    "https://www.airbnb.co.uk/rooms/715759276214360126?adults=1&category_tag=Tag%3A8662&children=0&infants=0&search_mode=flex_destinations_search&check_in=2023-01-08&check_out=2023-01-13&federated_search_id=45ddaced-6931-48b8-a55a-eec9d453bdb7&source_impression_id=p3_1668807826_VlEzsP8mNvDn%2BHCa",
+    "https://www.airbnb.co.uk/rooms/20669368",
+    "https://www.airbnb.co.uk/rooms/50633275"
+  ],
+
+  "testValidUrl" :    "https://www.airbnb.co.uk/rooms/715759276214360126?adults=1&category_tag=Tag%3A8662&children=0&infants=0&search_mode=flex_destinations_search&check_in=2023-01-08&check_out=2023-01-13&federated_search_id=45ddaced-6931-48b8-a55a-eec9d453bdb7&source_impression_id=p3_1668807826_VlEzsP8mNvDn%2BHCa",
+  "testInvalidUrl" : [
+    "https://www.airbnb.co.uk/roomsasf33571268",
+    "https://www.airbnb.uk/rooms/asf33571268"
+  ]
+}

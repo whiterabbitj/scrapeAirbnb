@@ -1,0 +1,37 @@
+[
+    {
+        "propertyDetails": {
+            "propertyName": "Lovely loft on the beautiful North Norfolk Coast",
+            "propertyType": "Entire guest house",
+            "url": "https://www.airbnb.co.uk/rooms/50633275",
+            "amenityDetail": [
+                "Hair dryer",
+                "Shampoo",
+                "Body soap",
+                "Shower gel",
+                "Hot water",
+                "Essentials|Towels, bed sheets, soap and toilet paper",
+                "Hangers",
+                "Bed linen",
+                "Portable fans",
+                "Heating",
+                "Smoke alarm",
+                "Carbon monoxide alarm",
+                "Wifi",
+                "Microwave",
+                "Mini fridge",
+                "Kettle",
+                "Wine glasses",
+                "Coffee",
+                "Private entrance|Separate street or building entrance",
+                "Free parking on premises"
+            ],
+            "roomDetail": {
+                "numbGuest": 2,
+                "numbBedrooms": 1,
+                "numbBeds": 1,
+                "numbBathrooms": 1
+            }
+        }
+    }
+]
